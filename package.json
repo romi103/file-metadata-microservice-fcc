@@ -1,0 +1,24 @@
+{
+  "name": "file-metadat-microservice-fcc",
+  "version": "1.0.0",
+  "description": "file-metadat-microservice-fcc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Free",
+    "Code",
+    "Camp"
+  ],
+  "author": "Roman Lorent",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "multer": "^1.1.0"
+  }
+}
